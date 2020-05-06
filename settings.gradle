@@ -1,0 +1,2 @@
+rootProject.name='TelaPessoa'
+include ':app'
